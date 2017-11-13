@@ -1293,25 +1293,3 @@ La grilla contiene las siguientes media queries que debemos considerar:
 ***
 
 <h1>UF!!! Mucha información no??? Bueno ahora estás preparadísima para hacer tu primer landing por ti sola! <a href="mi_primer_landing.md">Ven aquí</a> <h1>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

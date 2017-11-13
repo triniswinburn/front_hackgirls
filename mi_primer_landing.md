@@ -607,5 +607,4 @@ Acá hacemos varias cosas y las detallo. Primero dejamos el color de la fuente e
 
 Pensaste que era todo? nos falta la guinda de la torta. Bootstrap nos provee algunos temas que definen los elementos bases que ya estamos utilizando en nuestro proyecto, como los botones, menús, entre otros. Para ello utilizaremos [Bootswatch](https://bootswatch.com/) que nos entrega varias alternativas. Revisa la que más te guste, descarga el archivo bootstrap.css y reemplazalo por el que ya tienes en tu carpeta css (si no quieres perder los estilos bases, realiza una copia antes de reemplazar el archivo). Al reemplazar los estilos, verás como nuestro landing tomará otra personalidad!
 
-
 Saludos!
