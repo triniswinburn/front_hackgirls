@@ -17,7 +17,7 @@
 |`<div>` | Agrupa las etiquetas para darle propiedades posteriormente con CSS |
 |`<span>`| Agrupa una parte de un texto para darle propiedades posteriormente con CSS |
 
-<h3> HTML5 </h3>
+
 
 |Marca                    | Explicación                                     |
 |---------------------------|--------------------------|
