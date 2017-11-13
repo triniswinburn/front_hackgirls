@@ -5,7 +5,7 @@
 ![logo HackGirls](images/hackgirls.png)
 
 </section>
-<section>
+<section> 
 
 # Introducción 
 
